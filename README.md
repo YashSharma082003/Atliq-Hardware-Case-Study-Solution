@@ -1,8 +1,8 @@
-## Atliq-Hardware-Case-Study-Solution
+# Atliq-Hardware-Case-Study-Solution
 
 All the key information regarding the project is provided below.
 
-### Overview:
+## Overview:
 
 * Project: Provide Insights to Management
 
@@ -10,7 +10,7 @@ All the key information regarding the project is provided below.
 
 * Function: Executive Management
 
-### About the Company:
+## About the Company:
 
 Atliq Hardwares (imaginary company) is one of India's leading computer hardware producers and well expanded in other countries.
 
