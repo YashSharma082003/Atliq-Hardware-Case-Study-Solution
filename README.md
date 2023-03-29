@@ -1,4 +1,4 @@
-# Atliq-Hardware-Case-Study-Solution
+## Atliq-Hardware-Case-Study-Solution
 
 All the key information regarding the project is provided below.
 
