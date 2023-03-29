@@ -32,4 +32,4 @@ As a Junior Data Analyst, my task is to write SQL queries to answer all 10 ad-ho
 
 * Microsoft Excel
 
-* Microsoft PowerPoint
+* Canva
